@@ -4,7 +4,7 @@ app.use("/user",(req,res)=>{
     res.send("hi i am from user  side how are you doing ")
 })
 app.use("/",(req,res)=>{
-    res.send("hi i am from server side")
+    res.send("hi i am from server side ss s")
 })
 
 app.listen(6001,()=>{
